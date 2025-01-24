@@ -1,4 +1,4 @@
-# ![Cargando...](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFtbzgxM3k0cGlraTk0bHE2cmJiYWxramZqMTl1NzloazJlazFuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif)
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFtbzgxM3k0cGlraTk0bHE2cmJiYWxramZqMTl1NzloazJlazFuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" alt="Cargando..." width="100%" />
 
 ¡Hola, soy Tadeo! 👋
 
